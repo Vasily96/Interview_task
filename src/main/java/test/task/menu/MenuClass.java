@@ -205,7 +205,7 @@ public class MenuClass {
   }
 
   private void readFileName() {
-    System.out.print("7. Filename to output file:");
+    System.out.print("Filename to output file:");
     fileName = in.next();
     fileName = fileName + ".txt";
   }
