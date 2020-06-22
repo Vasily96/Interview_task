@@ -1,0 +1,17 @@
+2020-06-21T46:00
+User3 - 5
+User1 - 5
+
+
+
+
+Log{dateTime=2020-06-21T21:45:17, userName='User1', message='06345678'}
+Log{dateTime=2020-06-21T21:45:17, userName='User1', message='Vasili'}
+Log{dateTime=2020-06-21T21:45:17, userName='User3', message='Talkachou'}}
+Log{dateTime=2020-06-21T21:45:17, userName='User3', message='test'}
+Log{dateTime=2020-06-21T21:45:17, userName='User1', message='task'}
+Log{dateTime=2020-06-21T21:45:17, userName='User1', message='abcdefgh'}
+Log{dateTime=2020-06-21T21:45:17, userName='User1', message='qwerty'}
+Log{dateTime=2020-06-21T21:45:17, userName='User3', message='0634qazwsxedc'}
+Log{dateTime=2020-06-21T21:45:17, userName='User3', message='wasd'}
+Log{dateTime=2020-06-21T21:45:17, userName='User3', message='qpwoeiruty'}
